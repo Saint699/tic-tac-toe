@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "main": "^3.2.3"
+    "gh-pages": "^3.2.3"
   },
   "description": "Tic Tac Toe\r game first edition\r https://grantdennison.github.io/tic-tac-toe/public/index.html",
   "main": "index.js",
