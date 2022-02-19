@@ -40,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "Tic Tac Toe\r game first edition\r https://grantdennison.github.io/tic-tac-toe/public/index.html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantdennison/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantdennison/tic-tac-toe/issues"
   }
 }
